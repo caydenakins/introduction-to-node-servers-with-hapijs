@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/caydenakins/introduction-to-node-servers-with-hapijs#readme",
   "dependencies": {
-    "@hapi/hapi": "^18.3.1",
+    "@hapi/hapi": "^18.4.1",
     "curl": "^0.1.4",
     "nodemon": "^1.18.10"
   }
